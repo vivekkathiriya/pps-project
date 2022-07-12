@@ -1,3 +1,3 @@
 //# pps-project
 //project for pps
-#inc
+#include<stdio.h>
